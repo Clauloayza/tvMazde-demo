@@ -147,7 +147,6 @@ button.heart:hover{
   width: 10em;
   height: 10em;
 }
-
 @ -webkit-keyframes  load8 {
   0% {
     -webkit-transform : rotar ( 0 grados );
