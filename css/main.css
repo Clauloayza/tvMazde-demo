@@ -148,3 +148,23 @@ button.heart:hover{
   height: 10em;
 }
 
+@ -webkit-keyframes  load8 {
+  0% {
+    -webkit-transform : rotar ( 0 grados );
+    transformar : rotar ( 0 grados );
+  }
+  100% {
+    -webkit-transform : rotar ( 360 grados );
+    transformar : rotar ( 360 grados );
+  }
+}
+@keyframes  load8 {
+  0% {
+    -webkit-transform : rotar ( 0 grados );
+    transformar : rotar ( 0 grados );
+  }
+  100% {
+    -webkit-transform : rotar ( 360 grados );
+    transformar : rotar ( 360 grados );
+  }
+}
